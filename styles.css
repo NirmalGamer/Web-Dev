@@ -1,0 +1,38 @@
+body {
+  font-size: 1.5rem;
+}
+.options {
+  text-align: right;
+  padding: 10px;
+}
+p {
+  display: inline;
+}
+.search {
+  padding: 1%;
+  text-align: center;
+}
+#input {
+  width: 20%;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+#hi {
+  display: none;
+}
+.advanced {
+  text-align: left;
+  padding: 2%;
+  text-align: left;
+}
+.advanced-input {
+  align-items: center;
+}
+.advanced-p {
+  padding-right: 5px;
+}
+#advanced-submit {
+  background-color: blue;
+  color: white;
+  height: 30px;
+}
