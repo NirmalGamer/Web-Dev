@@ -7,6 +7,13 @@ h1 {
   font-size: 6rem;
   margin-bottom: 2%;
 }
+h6 {
+  margin-top: -3.5%;
+  padding-left: 20%;
+  font-size: 1.5rem;
+  color: blue;
+  margin-bottom: 2%;
+}
 .submit {
   margin: 2rem;
   height: 2rem;
